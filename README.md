@@ -9,6 +9,8 @@ Below is what users can do on our platform :
 1. Combine DeFi protocols to build strategies
 2. a multi functional DeFi aggregation protocol that allows a user to perform transactions from our easy to use interface.
 
+## Demo Video
+
 Features:
 
 1. **Easy User Onboarding**:A Defi tool that would help new users onboard to the TON blockchain by easily utilising different defi tools across the TON ecosystem.
