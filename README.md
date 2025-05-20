@@ -1,4 +1,4 @@
-## OneClickTONDeFi: Streamline Your DeFi Experience on TON
+## Ton-defi: Streamline Your DeFi Experience on TON
 
 Tagline: "OneClickTONDeFi: A drag and drop Defi aggregator that allows you to chain together complex transactions and execute them at the same time , build strategies and execute them across TON's Defi ecosystem"
 
